@@ -7,3 +7,5 @@ O que eu vou aprender na Trybe:
 -CSS
 -JavaScript
 -Soft Skills
+-React
+
