@@ -1,0 +1,11 @@
+--2021-11-17 21:25:57--  https://gist.githubusercontent.com/kalinchernev/486393efcca01623b18d/raw/daa24c9fea66afb7d68f8d69f0c4b8eeb9406e83/countries
+Resolvendo gist.githubusercontent.com (gist.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+Conectando-se a gist.githubusercontent.com (gist.githubusercontent.com)|185.199.108.133|:443... conectado.
+A requisição HTTP foi enviada, aguardando resposta... 200 OK
+Tamanho: 1842 (1,8K) [text/plain]
+Salvando em: “countries”
+
+     0K .                                                     100% 13,8M=0s
+
+2021-11-17 21:25:58 (13,8 MB/s) - “countries” salvo [1842/1842]
+
