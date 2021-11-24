@@ -31,10 +31,9 @@ li{
 li em{
     font-weight: bold;
 }
-/* se (-n+3) pegaria os 3 ultimos conteudo, pela 
-logica n positivo +3 ele pegara os 3 primeiros e 
-insere a cor azul no texto*/
-.linguagens li:nth-last-child(n+3) {
+/* (n+4)= 0+4, 1+4,2+4,3+4... = 4,5,6,7... ele quer dizer para não fazer esse 
+processo da li posição 4 a diante.*/
+.linguagens li:not(:nth-child(n + 4)) {
     color: blue;
   }
   /*na classe java, tudo que possuir o nome java deve
