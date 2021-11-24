@@ -32,7 +32,7 @@ li em{
     font-weight: bold;
 }
 /* se (-n+3) pegaria os 3 ultimos conteudo, pela 
-logica n posito +3 ele pegara os 3 primeiros e 
+logica n positivo +3 ele pegara os 3 primeiros e 
 insere a cor azul no texto*/
 .linguagens li:nth-last-child(n+3) {
     color: blue;
@@ -51,6 +51,8 @@ faça com que ao passar o mouse sobre cada um, o texto fique em negrito e
 assuma a cor de fonte "temática do site*/
 /*Sugestão de cores padrão. StackOverflow (laranja), 
 W3Schools (verde), MDN (preta), DevDocs (amarela), Trybe (verde).*/
+/* como se le: vou colocar a cor no texto para todos os a[href] 
+que são filho de todos li que são filhos de todos os ul*/
 
 ul li a[href*="stackoverflow"]{
    color: orange;
