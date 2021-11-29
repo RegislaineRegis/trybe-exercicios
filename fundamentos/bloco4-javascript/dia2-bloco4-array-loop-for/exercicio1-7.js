@@ -38,20 +38,6 @@ console.log("Media é maior do que 20:", media);
     console.log("Media é menor do que 20:", media);
 }*/
 
-
-//descobrir qual o menor valor no array e imprimi-lo
-
-
-for(let index = 0; index < numbers.length; index +=1){
-   if(numbers[index] < numbers[index +1]){
-        menorValor = numbers[index+1];
-         
-         }
-   }
-}
-console.log("o menor valor é: ", maiorValor);
-
-
 /*descobrir qual o maior valor no array e imprimi-lo
 
 let maiorValor = 0;
@@ -62,20 +48,45 @@ for(let index = 0; index < numbers.length; index +=1){
 }
 console.log("o maior valor é: ", maiorValor);*/
 
+/*quantidade de valores impares dentro de um array
 
-
-
-/*
-let number1;
-
-for(let index = 1; index < numbers.length -1; index +=1){
-    for(let i = 0; i > numbers.length ; i +=1){
-         if(numbers[i] > numbers[index]){
-              number1 = numbers[i];
-              numbers[i] = numbers[index];
-              numbers[index] = number1;
-
-         }
-    }
+let contador = 0;
+for(let index = 0; index < numbers.length; index +=1){
+   if( numbers[index] % 2 !== 0){
+        contador +=1;
+   }  
 }
-console.log("o menor valor é: ,", numbers[0]);*/
+    if(contador !== 0){
+        console.log("Dentro existe", contador, "numeros impares");
+     }else{
+          console.log("nNnhum valor ímpar encontrado");
+     }*/
+
+// verificando o menor valor dentro de array 
+
+     let menorValor ;
+     let auxiliar = 0;
+     for(let index = 0; index < numbers.length; index +=1){
+        if(numbers[index] < numbers[auxiliar]){
+            menorValor = numbers[index];
+          }
+     }
+     console.log("o menor valor dentro do array é: ", menorValor);
+
+/*criando um array de 1 até 25 e imprimir 
+
+ let adicionandoArray = [];
+ let numero = 1;
+
+ for(let index = 0; index < 25; index +=1){
+      adicionandoArray.push(numero);
+      numero +=1;
+      console.log(adicionandoArray[index]);
+ }*/
+
+/*imprimindo o resultado da divisão do array por 2
+
+ for(let index = 0; index < numbers.length; index +=1){
+    let resultado = numbers[index] / 2;
+    console.log(resultado);
+ }*/
