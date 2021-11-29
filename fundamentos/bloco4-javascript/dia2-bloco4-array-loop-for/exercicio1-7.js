@@ -36,6 +36,9 @@ if(media > 20){
 console.log("Media é maior do que 20:", media);
 }else{
     console.log("Media é menor do que 20:", media);
-}/*
+}*/
 
+for(let index = 0; index < numbers.length; index +=1){
 
+     
+}
