@@ -38,7 +38,44 @@ console.log("Media é maior do que 20:", media);
     console.log("Media é menor do que 20:", media);
 }*/
 
-for(let index = 0; index < numbers.length; index +=1){
 
-     
+//descobrir qual o menor valor no array e imprimi-lo
+
+
+for(let index = 0; index < numbers.length; index +=1){
+   if(numbers[index] < numbers[index +1]){
+        menorValor = numbers[index+1];
+         
+         }
+   }
 }
+console.log("o menor valor é: ", maiorValor);
+
+
+/*descobrir qual o maior valor no array e imprimi-lo
+
+let maiorValor = 0;
+for(let index = 0; index < numbers.length; index +=1){
+   if(maiorValor < numbers[index]){
+        maiorValor = numbers[index];
+   }
+}
+console.log("o maior valor é: ", maiorValor);*/
+
+
+
+
+/*
+let number1;
+
+for(let index = 1; index < numbers.length -1; index +=1){
+    for(let i = 0; i > numbers.length ; i +=1){
+         if(numbers[i] > numbers[index]){
+              number1 = numbers[i];
+              numbers[i] = numbers[index];
+              numbers[index] = number1;
+
+         }
+    }
+}
+console.log("o menor valor é: ,", numbers[0]);*/
