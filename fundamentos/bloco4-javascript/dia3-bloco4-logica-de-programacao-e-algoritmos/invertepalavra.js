@@ -1,4 +1,4 @@
-let word ='trybe';
+let word ='regislaine';
 let wordAux ='';
 //console.log(word[word.length -1]);
 
