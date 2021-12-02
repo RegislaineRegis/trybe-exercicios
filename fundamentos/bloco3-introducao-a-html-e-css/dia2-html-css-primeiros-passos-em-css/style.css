@@ -2,7 +2,7 @@
    h1{
         color: orange;
         font-size: 65px;
-        font-family: sans-serif;
+        font-family: sans-serif, Helvetica;
     }
     p{
         font-weight: 600;
@@ -22,5 +22,13 @@
     }
     #color-brown{
       background-color:brown;
+    }
+    li{
+      font-style: italic;
+      line-height:60px;
+      text-align:center;
+      text-decoration: underline;
+      font-size: 2em;
+
     }
  
