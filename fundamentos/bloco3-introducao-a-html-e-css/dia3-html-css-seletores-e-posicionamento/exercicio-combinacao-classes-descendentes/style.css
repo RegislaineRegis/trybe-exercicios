@@ -1,0 +1,70 @@
+ol{
+    background-color: yellow;
+} 
+/*nth-child(even):Representa elementos cuja posição numérica
+ em uma série de irmãos é par*/
+ol li:nth-child(even){
+color: green;
+}
+/*nth-child(odd):Representa elementos cuja posição numérica em uma
+ série de irmãos é ímpar
+uppercase: funcionalidade para deixar o texto em maisculo*/
+ol li:nth-child(odd){
+    text-transform:uppercase;
+}
+/*fazendo todas as tags h que tem no site ficarem com fonte de 
+cor vermelho*/
+h1, h3 {
+    color:red;
+}
+/* vou colocar uma borda de 1px solida preta e aumentar a fonte para 40px
+ em todos que estiverem em italicos filhos de h1 ou filho de h3*/
+h1 em, h3 em{
+ font-size: 40px;
+ border: 1px solid black;
+}
+/* para todas li's terem 20px de fonte*/
+li{
+    font-size: 20px;
+}
+/*para todas li em italico utilizar font-weight negrito (bold)*/
+li em{
+    font-weight: bold;
+}
+/* (n+4)= 0+4, 1+4,2+4,3+4... = 4,5,6,7... ele quer dizer para não fazer esse 
+processo da li posição 4 a diante.*/
+.linguagens li:not(:nth-child(n + 4)) {
+    color: blue;
+  }
+  /*na classe java, tudo que possuir o nome java deve
+   ter seu fundo rosa*/
+.java{
+    background-color: palevioletred;
+}
+/*faça com que ao passar o mouse sobre cada um, o texto fique em negrito*/
+ul li a:hover{
+    font-weight: bold;
+}
+/*Para cada link na lista de aliados da pessoa desenvolvedora,
+faça com que ao passar o mouse sobre cada um, o texto fique em negrito e
+assuma a cor de fonte "temática do site*/
+/*Sugestão de cores padrão. StackOverflow (laranja), 
+W3Schools (verde), MDN (preta), DevDocs (amarela), Trybe (verde).*/
+/* como se le: vou colocar a cor no texto para todos os a[href] 
+que são filho de todos li que são filhos de todos os ul*/
+
+ul li a[href*="stackoverflow"]{
+   color: orange;
+}
+ul li a[href*="w3schools"]{
+    color: green;
+ }
+ ul li a[href*="developer.mozilla.org"]{
+    color: black;
+ }
+ ul li a[href*="devdocs"]{
+    color:yellow;
+ }
+ ul li a[href*="app.betrybe"]{
+    color:green;
+ }

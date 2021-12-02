@@ -1,0 +1,14 @@
+p, h1 {
+    text-align: center;
+}
+li:hover, ol:hover{
+    background-color: blueviolet;
+   
+li:active{
+    font-family:helvetica, sans-serif, arial;
+    font-size: 15px;
+   
+}
+li{
+    list-style: none;
+}
