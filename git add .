@@ -1,0 +1,343 @@
+[33mcommit 2545ae3a78dafcf233e5bfabd820ac6c1bcc82c6[m[33m ([m[1;36mHEAD -> [m[1;32mexercicio/4.2[m[33m)[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 22:00:46 2021 -0300
+
+    exercicios do conteudo arrays/for/ for-of
+
+[33mcommit 693e95e71a7a383c64a9eb75c43f1418ec399c9c[m[33m ([m[1;31morigin/exercicio/4.1[m[33m, [m[1;32mexercicio/4.1[m[33m)[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 21:33:40 2021 -0300
+
+    cricao do arquivo exercicio de fixaçao/ e estudos dos exercicios
+
+[33mcommit 0d42fbafd1b68e3f272b18ae2e703eab5b347c82[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 20:09:32 2021 -0300
+
+    alteracao aquivo angulotriangulo, exercicio 11 salario liquido sobre IR e aliquotas InSS
+
+[33mcommit 5f5c6ba98c3e9ae9fa4334691314cd747489e4a3[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:53:31 2021 -0300
+
+    calculando o lucro total de um empresa ao vender mil produtos sobre o imposto
+
+[33mcommit fb0ee0e015fe2cc4a2f95a9c24d4bc9e60f1ee68[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:18:48 2021 -0300
+
+    impreme true caso um dos numeros sejam par, e false caso nenhum seje
+
+[33mcommit 0c1766f34c980e584b1b05552c0ad1bbadf10082[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:18:08 2021 -0300
+
+    exercicio que entre os tres valores impreme true caso um deles seja impar
+
+[33mcommit d5f08cb3f3df77114a312ffa79b91c5cbd145722[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:17:11 2021 -0300
+
+    exercicio que coverte uma  nota dada em  porcentagem para letra em conceito (A a F)
+
+[33mcommit e06eefb0cd4ba55f51afba5c97ec9319c15df5dc[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:15:35 2021 -0300
+
+    exercicio que converte entrada em letras minusculas, e devolve o movimento da peça realizada pelo peças do xadez
+
+[33mcommit 54b9a21e7560d5dc261d832add27be458fe14f3a[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:14:23 2021 -0300
+
+    exercico para verificar se os angulos representam um triangulo
+
+[33mcommit 3b20964e596f1e847143497e273ab8891e273df5[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 17:13:16 2021 -0300
+
+    exercicio para verificar se um dado e positivo ou negativo
+
+[33mcommit 3b77d30e2569e8d58aecbdef6b6788751147d8e1[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 15:47:00 2021 -0300
+
+    programa maior de tres numeros
+
+[33mcommit 944278a02db6e07d7c9b761bcf17e5f5f6dbb466[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 15:39:52 2021 -0300
+
+    programa com as cinco operaçoes aritmeticas
+
+[33mcommit 1eb9bb20157216e55d3e46ad13b7aef174ba98f6[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Sun Nov 28 15:23:54 2021 -0300
+
+    alteracao dos arquivos para pasta exerciciofixacao
+
+[33mcommit ef2aae1c2f2988e83646ee2161ece308b905124c[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 26 21:39:22 2021 -0300
+
+    correcao de alguns diretorios
+
+[33mcommit 20f5c0622d3d9efdc5bdb105a0baa300e7980d63[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 26 21:21:36 2021 -0300
+
+    Realizaçao dos exercicios de fixaçao do bloco4 dia 1
+
+[33mcommit 7ca7650bef31b840d04242a0a6d3e99f6a58dfb6[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 26 16:13:30 2021 -0300
+
+    criacao de novo diretorio e realizaçao de exericio de fixaçao
+
+[33mcommit 0579e187be3f832632abbdb5339a578c8df2d43a[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Wed Nov 24 20:49:22 2021 -0300
+
+    criacao do exercicio de fixaçao html semantico
+
+[33mcommit 32900b69dd3ee16e3ef5f9a1957a29e6e1c61c97[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Wed Nov 24 20:31:09 2021 -0300
+
+    criacao do exercicio de fixaçao html semantico
+
+[33mcommit 2c399cdc0fe1aeb2a655bca42d1e0a11b440bc28[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Wed Nov 24 13:20:18 2021 -0300
+
+    alteracao do style.css
+
+[33mcommit cda824f1dd13ac1717fdf47dfe2e9e792eea336a[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Wed Nov 24 11:51:34 2021 -0300
+
+    ]
+
+[33mcommit f895ae1a30d00abe9248b3a5ac50735d7a74dd9a[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Wed Nov 24 11:44:05 2021 -0300
+
+    criacao do passo a passo do exercicio combinacoes e classes descendentes
+
+[33mcommit 4e7e41ec1cca1c7abeb6849e3512658d06a5c4f1[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 22:39:54 2021 -0300
+
+    modifcaco arquivos index e style
+
+[33mcommit 959f600c5acf14d142318b56ab5398916d9ccb86[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 21:46:53 2021 -0300
+
+    criacao dos arquivos index.html e style.css
+
+[33mcommit 3c6462a0a63fef92234d715738b7b07fadeacdfa[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 21:40:44 2021 -0300
+
+    criacao das pastas para os exercicios1 e exercicios2
+
+[33mcommit 8512baa67b67a43274fa64404ed3ff70a32110b8[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 21:07:06 2021 -0300
+
+    criacao de nova pasta exerc-posicionamento do mario
+
+[33mcommit 07bddb00840fbe1f0b266304353012b5e0dfb6dd[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 20:38:52 2021 -0300
+
+    criacao da pasta exercicio-posicionamento mario
+
+[33mcommit e3e7c5ae52d8ee35259112a8b4c8e1add27efe76[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 20:31:03 2021 -0300
+
+    alteracao do exercicio arquivo style.css
+
+[33mcommit dc3a187600723092d8976b70ea2b0345efaeb353[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 19:27:31 2021 -0300
+
+    criacao arquivo style.css
+
+[33mcommit d4b048ab045ce6f961df4d0aed963e4fc8407018[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Tue Nov 23 18:35:00 2021 -0300
+
+    criacao de novo diretorio e index.html
+
+[33mcommit c443d5288c86aba07d67651860092a193414b954[m
+Merge: 7ca4161 af564f0
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Mon Nov 22 19:10:46 2021 -0300
+
+    Merge pull request #8 from RegislaineRegis/exercicio/3.2
+    
+    arquivos excluidos
+
+[33mcommit af564f06fa8f3206e05a411c1c8cd4bec6220a69[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Mon Nov 22 19:07:54 2021 -0300
+
+    arquivos excluidos
+
+[33mcommit 7ca416195239ab6d7ff9bc83d6a3469d51858805[m
+Merge: 2d07dbb 6d40d27
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Mon Nov 22 19:02:17 2021 -0300
+
+    Merge pull request #7 from RegislaineRegis/exercicio/3.2
+    
+    Exercicio/3.2
+
+[33mcommit 6d40d27b9f15e5f87735b246a59f73203900a377[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Mon Nov 22 18:46:33 2021 -0300
+
+    colocando exercicios do dia dentro do seu respectivo diretorio correto
+
+[33mcommit 14b0bf172416fbdd13cc78864cb9dd736b6f57de[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Mon Nov 22 18:39:30 2021 -0300
+
+    altecaoes de erros
+
+[33mcommit 4c92c7cf64748a69bebaddce77d8a1bdcca59d7e[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Mon Nov 22 18:36:00 2021 -0300
+
+    criacao de um arquivo css separado chamado style
+
+[33mcommit 079da2baa93cd78b82d1a880298824e2bdfec182[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Mon Nov 22 18:16:41 2021 -0300
+
+    index atualizado com a segunda parte do exercicio2 do bloco3
+
+[33mcommit 7f3acceebc53af4bff7e4a95e18806b89bb0463d[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Mon Nov 22 16:04:56 2021 -0300
+
+    criacao do exercicio2 do bloco 2
+
+[33mcommit 2d07dbb3d666359bbb09e019860895a32a6aaad8[m
+Merge: 829ed05 7af6df2
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Mon Nov 22 15:34:21 2021 -0300
+
+    Merge pull request #5 from RegislaineRegis/master
+    
+    mudança de nome da branch master para main
+
+[33mcommit 7af6df25225a98665e5d94d4de8d6239c6cedd1a[m
+Merge: 829ed05 93b6831
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Fri Nov 19 19:28:25 2021 -0300
+
+    Merge pull request #4 from RegislaineRegis/exercicios/3.1
+    
+    Exercicios/3.1
+
+[33mcommit 93b68310721a5fa014c9d5d1dd3dc4a0ba6a485a[m[33m ([m[1;31morigin/exercicios/3.1[m[33m)[m
+Merge: 7ebe8af 829ed05
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 19 19:22:14 2021 -0300
+
+    Alteracao erronia
+
+[33mcommit 7ebe8af6f05c4f90c81a4cf455d1c085051aa2bc[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 19 19:12:50 2021 -0300
+
+    exercicio parte de links externos e internos
+
+[33mcommit 829ed0525cb28d0a773da423b1e3e5cab07dcee8[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 19 18:43:30 2021 -0300
+
+    exclusao de criacao erronia
+
+[33mcommit b6451b9dd892f47bb89de4cf3dc28e4a793f8e92[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 19 18:36:45 2021 -0300
+
+    criando o exericio index.html do exercicio bloco3-dia1
+
+[33mcommit d16c6dc6fdd90bc924e9996999cd3d765cfe8494[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 19 12:00:03 2021 -0300
+
+    mudanca pasta iniciando para dia1-e-dia2
+
+[33mcommit 420824a8240866c73c12860e797de370a794e927[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Fri Nov 19 11:54:38 2021 -0300
+
+    criacao do README
+
+[33mcommit 014aafca1cba77379a35794da68816813ee246bf[m
+Merge: d023555 2d9232a
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Thu Nov 18 15:30:23 2021 -0300
+
+    Merge pull request #1 from RegislaineRegis/trybe-skills-changes
+    
+    Duas habilidades inseridas em exercicios-dia2
+
+[33mcommit 2d9232a3e2643de3ee78aab1c913b0684d32121c[m
+Merge: 142225f d023555
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Thu Nov 18 15:29:57 2021 -0300
+
+    Merge branch 'master' into trybe-skills-changes
+
+[33mcommit d02355534aed2cd640e87af1c721577a9c418234[m
+Merge: 62c8912 5e22ea4
+Author: Regislaine Regis <94489726+RegislaineRegis@users.noreply.github.com>
+Date:   Thu Nov 18 15:23:27 2021 -0300
+
+    Merge pull request #2 from RegislaineRegis/trybe-skills-updates
+    
+    add um unica habilidade
+
+[33mcommit 5e22ea44536d914da620b9e96ee75ad3f723a330[m[33m ([m[1;31morigin/trybe-skills-updates[m[33m)[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Thu Nov 18 15:19:19 2021 -0300
+
+    add um unica habilidade
+
+[33mcommit 142225f99a94c2a6f7159f46bff672c0f11bc6d4[m[33m ([m[1;31morigin/trybe-skills-changes[m[33m)[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Thu Nov 18 15:10:44 2021 -0300
+
+    Duas habilidades inseridas em exercicios-dia2
+
+[33mcommit 62c891217cf5641ab0f2b83493333f4c98365db0[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Thu Nov 18 14:59:22 2021 -0300
+
+    criacao do readme.me
+
+[33mcommit 267c17ab654e5f3a4d3ee9353373cf8c1e79921c[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Thu Nov 18 14:58:40 2021 -0300
+
+    criacao do readme.me
+
+[33mcommit 661c955f3e731a94061381c29aa65399ce33ceb7[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Thu Nov 18 14:45:29 2021 -0300
+
+    criacao de diretorios e exercicios
+
+[33mcommit f141efa565b703eb41702bf9db7d09d6c794197b[m
+Author: Regislaine Regis <nanafidelis@gmail.com>
+Date:   Thu Nov 18 14:40:52 2021 -0300
+
+    criacao das pastas e readme
