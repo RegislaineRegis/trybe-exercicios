@@ -54,31 +54,45 @@
         5. Crie uma função que modifique todo o texto da tag <p> para maiúsculo.
         6. Crie uma função que exiba o conteúdo de todas as tags <p> no console.
         */
-       function alteraParagrafo(elementos,indice,paragrafo){
-       document.getElementsByClassName(elementos)[indice].innerText = paragrafo;
-       };       
-       function alteraCor(elementos, indice, cor){         
-       document.getElementsByClassName(elementos)[indice].style.backgroundColor = cor;
-       };     
-       function alterarTexto (elementos,indice,conteudo){
-        document.getElementsByClassName(elementos)[indice].innerText = conteudo;
-       };
-       /*function alteraParagrafoMaisculo(tag,indice){          
-        let paragrafo = document.getElementsByTagName(tag)[indice];
-        paragrafo.innerText= paragrafo.innerText.toLocaleUpperCase();
-      };     */
-      function exibirConteudoParagrafo (){
         
-        for (let indice; indice < document.getElementsByTagName('p').length; indice += 1){
-          console.log(document.getElementsByTagName('p')[indice].innerText);
-        }
-      };  
+       function alteraParagrafo(){
+       let paragrafo = document.getElementsByTagName('p')[1];
+       paragrafo.innerHTML = "Daqui dois anos me vejo trabalhando na aérea de tecnologia, realizada por ter alcançado meu sonho e ter aprendido muitas coisas, olhando para atras e vendo a minha evolução.";    
+       };
+       alteraParagrafo();
 
-       alteraCor('main-content', '0', 'rgb(76,164,109)')
-       alteraCor('center-content','0','white')
-       alteraParagrafo('center-content', '0', "Daqui dois anos me vejo trabalhando na aérea de tecnologia, realizada por ter alcançado meu sonho e ter aprendido muitas coisas, olhando para atras e vendo a minha evolução.")
-       alterarTexto('title','0',"Exercício 5.1 - JavaScript") 
-       //alteraParagrafoMaisculo('p','0')
+       function alteraCorBackgound(){
+        let cor = document.getElementsByClassName('main-content')[0];
+        cor.style.background = 'rgb(76,164,109)';
+       };
+       alteraCorBackgound();
+
+       function alteraCorVermelho(){
+         let cor = document.getElementsByClassName('center-content')[0];
+         cor.style.background = 'white';
+       };
+       alteraCorVermelho();
+
+       function corrigirTag(){
+        let corrigir = document.getElementsByTagName('h1')[0];
+        corrigir.innerHTML = "Exercício 5.1 - JavaScript";
+       };
+       corrigirTag();
+
+       function alterarMaisculo(){
+       let maisculo = document.getElementsByTagName('p')[0];
+       maisculo.innerHTML = maisculo.innerHTML.toUpperCase();
+       };
+       alterarMaisculo();
+
+      function imprimeTag(){
+       let imprime = document.getElementsByTagName('p');
+       for (let index = 0; index < imprime.length; index += 1){
+         console.log (imprime[index].innerHTML);
+       }
+      };  
+      imprimeTag();     
+
     </script>
   </body>
 </html>
