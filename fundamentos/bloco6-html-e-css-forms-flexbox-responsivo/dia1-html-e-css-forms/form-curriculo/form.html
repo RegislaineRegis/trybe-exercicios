@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet0" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms- Curriculo</title>
+</head>
+<body>
+    <header class="form-header">
+        <h1> Formulário de currículo</h1>
+    </header>
+    <form action="">
+    <div id="form">
+      <fieldset>
+          <div>
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" maxlength="40" placeholder="Digite seu nome" required>
+          </div>
+
+          <div
+          ><label for="email">E-mail:<input type="email" id="email" maxlength="50" placeholder="Digite seu e-mail" required></label>
+          </div>      
+
+          <div>
+          <label for="cpf">CPF:</label>
+          <input type="text" id="cpf" maxlength="11" placeholder="Digite seu cpf" required>
+          </div>
+
+          <div>
+          <label for="endereco">Endereço:</label>
+          <input type="text" id="endereco" maxlength="200" placeholder="Digite seu endereço" required>
+          </div>
+
+          <div>
+          <label for="cidade">Cidade:</label>
+          <input type="text" id="cidade" maxlength="28" placeholder="Digite sua Cidade" required>
+          </div>
+          
+          <div>
+          <label for="up">Estado:</label>
+          <select name="estado" id="up" required></select>
+          <option disabled selected value>Selecione seu estado:</option> 
+          </div>
+             
+          <div>        
+          <label for="casa">Tipo de imóvel:<input type="radio" id="casa" name="logradouro" required> Casa</label>
+          <label for="apartamento"><input type="radio" id="apartamento" name="logradouro" required> Apartamento</label> 
+          </div>        
+        </fieldset>
+    </div>
+
+    <div>
+      <fieldset>
+          <div>
+          <legend>Resumo do Currículo</legend>
+          <textarea name="" id="" cols="100" rows="10" maxlength="1000" required></textarea>
+        </div>
+
+        <div>
+          <label for="cargo">Descrição do Cargo:</label>
+          <input type="text" id="cargo" maxlength="500" placeholder="Digite seu cargo" required>
+        </div>
+
+        <div>          
+          <label for="data-inicio">Data de inicio:</label>
+          <input type="text" name="" id="data_inicio" value="" required>           
+        </div>           
+      </fieldset>   
+    
+      <button type="submit" id="buttonSubmit">Enviar</button>
+     <button id="limpar">Limpar</button>  
+      
+</div>  
+  </form>    
+  <div id="dadoscurriculos"></div>  
+  <script src="script.js"></script>
+</body>
+</html>
