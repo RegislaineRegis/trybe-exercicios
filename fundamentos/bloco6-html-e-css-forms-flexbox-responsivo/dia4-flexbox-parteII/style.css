@@ -29,6 +29,7 @@
     display: flex;
     justify-content: space-around;
     width: 100%;
+    align-self: center;
   }
   
   .menu-container li {
@@ -36,11 +37,12 @@
     font-weight: 500;
     font-size: 1.3rem;
     list-style: none;
-    margin-right: 10px;
+    margin-right: 10px;    
   }
   .header-container > .logo-container:nth-child(2){
       order:-1;
   }
   .header-container > .menu-container:nth-child(1){
     order:1;
+    flex-grow: 1;    
 }
