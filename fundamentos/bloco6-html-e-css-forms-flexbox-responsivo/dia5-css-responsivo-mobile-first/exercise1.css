@@ -52,5 +52,6 @@ figcaption {
   body {
     background-color: rgb(63, 63, 63);
     font-size: xx-large;
+    margin: 20px;
   }
 }
