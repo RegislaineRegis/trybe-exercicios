@@ -51,5 +51,6 @@ figcaption {
 @media only screen and (min-width:550px){
   body {
     background-color: rgb(63, 63, 63);
+    font-size: xx-large;
   }
 }
