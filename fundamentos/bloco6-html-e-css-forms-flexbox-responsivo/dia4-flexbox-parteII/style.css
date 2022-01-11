@@ -77,7 +77,8 @@
     height: 150px;
     justify-content: center;
     margin: 10px;
-    flex-basis: 16%;    
+    flex-basis: 16%;
+    flex-grow: 1;    
   }  
   .aside-container {
     display: flex;
