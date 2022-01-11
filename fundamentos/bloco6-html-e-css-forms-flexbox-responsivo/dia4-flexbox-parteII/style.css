@@ -11,13 +11,13 @@
   
   .header-container {
     background-color: #5C687C;
-    display: flex;
+    display: flex;   
   }
   
   .logo-container {
     display: flex;
     justify-content: center;
-    flex-basis: 268px;
+    flex-basis: 268px;    
   }
   
   .menu-container {
@@ -38,3 +38,9 @@
     list-style: none;
     margin-right: 10px;
   }
+  .header-container > .logo-container:nth-child(2){
+      order:-1;
+  }
+  .header-container > .menu-container:nth-child(1){
+    order:1;
+}
