@@ -1,0 +1,1 @@
+const skills = ['colorir','javascript','paciencia', 'react', 'html'];
