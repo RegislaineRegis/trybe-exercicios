@@ -7,7 +7,6 @@ class Image extends React.Component {
 }
 
 export default Image;
-
 /* 
 Qual o nome do componente declarado acima?
  componente Image
