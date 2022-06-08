@@ -1,0 +1,22 @@
+{
+  "name": "escrevendo-conteudo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "escrevaArquivo.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  },
+  "devDependencies": {
+    "sinon": "^14.0.0"
+  }
+}
