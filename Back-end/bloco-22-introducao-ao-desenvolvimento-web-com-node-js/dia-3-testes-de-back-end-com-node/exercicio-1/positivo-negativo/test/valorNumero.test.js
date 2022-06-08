@@ -23,3 +23,10 @@ describe('Quando o número for igual que Zero ' , () => {
     expect(resposta).to.be.equals('neutro');    
   });
 });
+describe('Quando o valor for diferente de Número ' , () => {
+  it('retorna "valor de tipo diferente"', () => {
+    const resposta = valorNumero('bb');
+
+    expect(resposta).to.be.equals('o parâmetro deve ser um número');    
+  });
+});
