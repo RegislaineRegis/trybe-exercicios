@@ -69,6 +69,7 @@ app.post('/books', async (req, res) => {
 
 	res.status(201).json({ message: 'Livro criado com sucesso! '});
 });
+
 /*
 app.get('/books', async (req, res) => {
   const books = await book.getAll();
