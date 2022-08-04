@@ -8,7 +8,7 @@ const getAll = async (req, res) => {
   if (author) {
     books = await BooksService.getByAuthor(author);
   } else {
-    books = await BooksService.getAll();
+     books = await BooksService.getAll();
   }
 
   res.status(200).json(books);
@@ -43,7 +43,7 @@ const update = async (req, res) => {
 const remove = async (req, res) => {
   const { id } = req.params;
 
-  const removed = await BookService.remove(id);
+  const removed = await BooksService.remove(id);
 
   if (!removed) return res.status(404).json({ message: 'Book not found' });
 

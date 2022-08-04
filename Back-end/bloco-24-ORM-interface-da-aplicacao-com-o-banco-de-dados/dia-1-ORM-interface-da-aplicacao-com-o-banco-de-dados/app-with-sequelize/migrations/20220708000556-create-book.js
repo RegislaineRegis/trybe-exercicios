@@ -11,6 +11,14 @@ module.exports = {
       title: {
         type: DataTypes.STRING
       },
+      author: {
+        allowNull: false,
+        type: DataTypes.STRING,
+      },
+      pageQuantity: {
+        allowNull: true,
+        type: DataTypes.INTEGER,
+      },
       createdAt: {
         allowNull: false,
         type: DataTypes.DATE
@@ -21,7 +29,7 @@ module.exports = {
       }
     });
   },
-  async down(queryInterface, DataTypes) {
+  async down(queryInterface, _DataTypes) {
     await queryInterface.dropTable('Books');
   }
 };

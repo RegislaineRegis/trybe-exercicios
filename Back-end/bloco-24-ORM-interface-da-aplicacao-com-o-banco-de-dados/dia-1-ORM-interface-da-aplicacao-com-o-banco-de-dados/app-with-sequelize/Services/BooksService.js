@@ -1,4 +1,4 @@
-const { Book } = require('../models/book');
+const { Book } = require('../models');
 
 const getAll = async () => {
   const books = await Book.findAll({ 
@@ -31,7 +31,7 @@ const update = async (id, { title, author, pageQuantity }) => {
 };
 
 const remove = async (id) => {
-  const removed = await Book.destroy(
+  const removed = await book.destroy(
     { where: { id } },
   );
 
